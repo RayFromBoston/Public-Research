@@ -6,7 +6,7 @@ I decided to take down my SSRN and just post my papers here
 
 # Millennium Papers
 
-## Papers — The Wrong Object: Continuum Idealizations and the Millennium Problems
+## Intro — The Wrong Object: Continuum Idealizations and the Millennium Problems
 
 - **Riemann Hypothesis** — [The Critical Line Is a Property of the Spectrum, Not of a Hunt]
 - **Navier–Stokes** — [Infinite Zoom Is a Property of Representation, Not of Fluids]
